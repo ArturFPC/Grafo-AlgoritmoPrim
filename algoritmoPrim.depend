@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1671322793 source:/home/tutu/codeblocks-programs/algoritmoPrim/main.cpp
+	<iostream>
+	"grafo.h"
+
+1671324150 /home/tutu/codeblocks-programs/algoritmoPrim/include/grafo.h
+	"vertice.h"
+	<queue>
+	<vector>
+
+1671324222 /home/tutu/codeblocks-programs/algoritmoPrim/include/vertice.h
+	<string>
+	<iostream>
+
