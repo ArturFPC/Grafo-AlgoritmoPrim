@@ -15,8 +15,6 @@ class vertice
         int getChave(){return this->chave;}
         void setChave(int nChave);
     protected:
-        string cor;
-        int d;
         int p = NULL;//numero do predescessor
         int num;//numero para pegar a posição do vertice na matriz de adjacencia
         int chave;

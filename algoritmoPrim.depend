@@ -12,3 +12,16 @@
 	<string>
 	<iostream>
 
+1671322793 source:/home/tutu/codeblocks-programs/Grafo-AlgoritmoPrim/main.cpp
+	<iostream>
+	"grafo.h"
+
+1671324150 /home/tutu/codeblocks-programs/Grafo-AlgoritmoPrim/include/grafo.h
+	"vertice.h"
+	<queue>
+	<vector>
+
+1671324222 /home/tutu/codeblocks-programs/Grafo-AlgoritmoPrim/include/vertice.h
+	<string>
+	<iostream>
+
